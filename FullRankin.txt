@@ -1,0 +1,4 @@
+1:	HSB tiene 7.0 Pts
+2:	MMP tiene 5.5 Pts
+3:	JGS tiene 5.5 Pts
+4:	MSB tiene 1.0 Pts
